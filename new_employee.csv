@@ -1,16 +1,15 @@
-Employee_ID,Name,Department,Salary,Hire_Date
-E001,John Smith,Engineering,75000,2020-01-15
-E002,Sarah Johnson,Marketing,65000,2019-03-22
-E003,Michael Brown,Engineering,80000,2018-07-10
-E004,Emily Davis,HR,60000,2021-05-18
-E005,David Wilson,Sales,70000,2020-11-30
-E006,Lisa Anderson,Engineering,85000,2017-09-05
-E007,James Taylor,Marketing,62000,2021-02-14
-E008,Jennifer Martinez,Finance,72000,2019-08-20
-E009,Robert Thomas,Sales,68000,2020-04-25
-E010,Maria Garcia,HR,58000,2021-09-12
-E011,William Rodriguez,Engineering,78000,2018-12-03
-E012,Elizabeth Lopez,Finance,74000,2019-06-17
-E013,Christopher Lee,Sales,71000,2020-08-08
-E014,Jessica White,Marketing,64000,2021-01-29
-E015,Daniel Harris,Engineering,82000,2017-11-22
+Employee ID,Gender,Age,Department,Job Role,Position Level,Location,Manager ID,Hire Date,Years At Company,Years In Role,Annual Salary,Bonus Percent,Performance Rating,Productivity Index,Quality Score,Engagement Score,Satisfaction Score,Work Life Balance Score,Training Hours,Certification Count,Promoted Last 3 Years Description,Special Projects Count,Absence Days,Attrition Flag,Termination Date,Termination Reason,Active Employee Flag,Tenure Bucket,Inactive Employee Flag,PromotionLast3Yrs
+EMPF8C0D0,Male,48,Sales,Sales Director,L3,San Francisco,EMP333DA9,2024-01-17,1.0,0.0,143230.0,0.06,3.1,74.0,90.0,82.0,7.4,3.5,62.0,2,Not Promoted,1,1,Low,,,1,<1yr,0,0
+EMP1D334D,Male,35,Operations,Process Engineer,L1,San Francisco,EMP97C39D,2020-01-01,5.0,4.0,96431.0,0.08,2.8,38.0,75.0,100.0,8.1,1.7,12.0,2,Promoted,1,5,High,2025-12-17,Voluntary,0,3-5yrs,1,1
+EMP2D2A2D,Male,28,HR,HR Specialist,L2,Austin,EMPE67CB1,2019-05-09,5.7,4.7,77490.0,0.12,4.1,59.0,69.0,51.0,5.9,3.4,15.0,1,Not Promoted,1,22,High,,,1,5-10yrs,0,0
+EMP7D0AF4,Female,36,Finance,Finance Manager,L4,San Francisco,EMPB40EF7,2015-12-14,9.1,9.1,195371.0,0.26,3.5,39.0,90.0,41.0,5.9,3.6,60.0,2,Not Promoted,3,6,High,2025-02-20,Voluntary,0,5-10yrs,1,0
+EMP779251,Male,31,Engineering,Software Engineer,L1,Austin,EMP87FCCC,2016-05-10,8.6,7.6,64046.0,0.07,1.6,85.0,100.0,65.0,6.6,3.0,17.0,1,Promoted,3,15,High,,,1,5-10yrs,0,1
+EMP143E86,Female,30,Engineering,Architecture Lead,L1,New York,EMPD3C395,2023-07-05,1.5,0.0,62839.0,0.06,4.3,97.0,89.0,58.0,6.2,1.6,28.0,1,Not Promoted,1,11,Low,,,1,1-3yrs,0,0
+EMP7CA410,Male,38,Engineering,Data Scientist,L2,Austin,EMPF443D0,2019-05-18,5.6,5.6,80957.0,0.06,3.6,87.0,77.0,70.0,6.1,2.8,97.0,3,Promoted,2,24,Low,,,1,5-10yrs,0,1
+EMP24347C,Female,22,Operations,Operations Analyst,L3,Austin,EMPEA8DDE,2019-05-04,5.7,3.7,124623.0,0.12,2.3,90.0,78.0,80.0,5.4,5.0,19.0,3,Not Promoted,1,4,Low,,,1,5-10yrs,0,0
+EMP75E98E,Female,23,Finance,Finance Manager,L1,New York,EMP4C544D,2016-07-15,8.5,7.5,89651.0,0.17,2.9,63.0,100.0,100.0,7.9,3.7,67.0,1,Not Promoted,0,4,Low,,,1,5-10yrs,0,0
+EMPB9B644,Female,35,HR,Talent Acquisition,L3,San Francisco,EMP397FA1,2023-08-15,1.4,1.4,183698.0,0.06,2.0,82.0,86.0,61.0,9.6,2.9,8.0,2,Not Promoted,0,1,Low,,,1,1-3yrs,0,0",
+  "message": "Update new_employee.csv with 10 rows from HR - Company Policies space",
+  "branch": "main",
+  "sha": "f8455f49ff4847c60c576441f2536bb72a53295d"
+}
